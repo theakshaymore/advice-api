@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/advice-api/static/css/main.1af867c2.chunk.css",
+    "main.js": "/advice-api/static/js/main.f3424302.chunk.js",
+    "main.js.map": "/advice-api/static/js/main.f3424302.chunk.js.map",
+    "runtime-main.js": "/advice-api/static/js/runtime-main.08d7d705.js",
+    "runtime-main.js.map": "/advice-api/static/js/runtime-main.08d7d705.js.map",
+    "static/js/2.df9513f5.chunk.js": "/advice-api/static/js/2.df9513f5.chunk.js",
+    "static/js/2.df9513f5.chunk.js.map": "/advice-api/static/js/2.df9513f5.chunk.js.map",
+    "index.html": "/advice-api/index.html",
+    "static/css/main.1af867c2.chunk.css.map": "/advice-api/static/css/main.1af867c2.chunk.css.map",
+    "static/js/2.df9513f5.chunk.js.LICENSE.txt": "/advice-api/static/js/2.df9513f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08d7d705.js",
+    "static/js/2.df9513f5.chunk.js",
+    "static/css/main.1af867c2.chunk.css",
+    "static/js/main.f3424302.chunk.js"
+  ]
+}
